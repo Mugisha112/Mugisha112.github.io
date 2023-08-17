@@ -4,7 +4,9 @@ title: "Edward's Resume"
 ---
 
 EDWARD MUGISHA
+
 https://mugisha112.github.io
+
 Cell:  780.264.1045	eddwardmugisha@gmail.com	Cell:  780.264.1045
 
 SUMMARY
