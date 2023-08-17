@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/Edward.pdf", title: "Resume"}
   - {file: "MavenSQL.txt", title: "SQL"}
   - {title: "Tableau", url: "https://public.tableau.com/app/profile/edwardlmugisha"}
+  - {file: "Mavenpost.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
