@@ -1,5 +1,5 @@
 ---
-title: "About me and what I can bring to the team"
+title: "Data about me and what I can bring to the team"
 layout: post
 ---
 
