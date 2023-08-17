@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/Edward.pdf", title: "Resume", icon: home}
-  - {file: "MavenSQL.txt", title: "SQL", icon: table}
+  - {file: "/Edward.pdf", title: "Resume"}
+  - {file: "MavenSQL.txt", title: "SQL"}
   - {title: "Tableau", url: "https://public.tableau.com/app/profile/edwardlmugisha"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
