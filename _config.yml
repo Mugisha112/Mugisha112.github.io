@@ -16,6 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Home"}
   - {file: "Edward.docx", title: "Resume"}
   - {title: "Tableau", url: "https://public.tableau.com/app/profile/edwardlmugisha"}
   - {file: "mavenpost.md", title: "Projects"}
