@@ -19,23 +19,30 @@ SKILLS:
 
 EXPERIENCE:
 
-CYNERGY ANALYTICS LC--------------------------------------------April 2022 - Present   
+CYNERGY ANALYTICS LC-----------------------------------------------------------------------April 2022 - Present   
 
 Business Data Analyst
 
 •	Assisted in business data analytics using a problem-solving approach to answer a business question utilizing data preparation techniques through data profiling and gathering, data visualization and end user support. 
+
 •	Created and developed reports and dashboards summarizing business data for management review to report on key business performance indicators with the help of BI tools like Tableau and Microsoft Power BI.
+
 •	Used the Extract, Transform, and Load (ETL) process to develop workflows in Alteryx from multiple sources (files and/or databases) allowing the business to accelerate transformation and boost growth.
+
 •	Execution of complex database queries, database optimization and working with relational databases against sensitive data to support business needs using MySQL.  
 
-LINDE CANADA INCORPORATED--------------------------------------January 2017 – Present
+LINDE CANADA INCORPORATED-----------------------------------------------------------------January 2017 – Present
 
 Site IT Liaison, Health & Safety Representative & Power Engineer(4th)
+
 •	Spearheading switching out of the entire air separation unit computer operating system from Windows 7 using IFix HMI to Windows 10 using NGHMI.
+
 •	Liaison between fellow employees/contractors and management regarding safety and safe work practices.
+
 •	Monitors, records, analyzes, investigates, and troubleshoots plant operations, product purity and operation efficiency
 
 EDUCATION:
 
-Diploma, Chemical Production and Power Engineering Technology (CPET), 2009 Lambton College, Sarnia, ON
+Diploma, Chemical Production and Power Engineering Technology (CPET),-------------------2009 Lambton College, Sarnia, ON
+
 •	Received Nova Chemicals Award and graduated with honors.
