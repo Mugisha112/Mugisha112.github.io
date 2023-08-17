@@ -19,7 +19,7 @@ SKILLS:
 
 EXPERIENCE:
 
-CYNERGY ANALYTICS LC                                                                                              April 2022 - Present   
+CYNERGY ANALYTICS LC--------------------------------------------April 2022 - Present   
 
 Business Data Analyst
 
@@ -28,7 +28,7 @@ Business Data Analyst
 •	Used the Extract, Transform, and Load (ETL) process to develop workflows in Alteryx from multiple sources (files and/or databases) allowing the business to accelerate transformation and boost growth.
 •	Execution of complex database queries, database optimization and working with relational databases against sensitive data to support business needs using MySQL.  
 
-LINDE CANADA INCORPORATED                                                                                        January 2017 – Present
+LINDE CANADA INCORPORATED--------------------------------------January 2017 – Present
 
 Site IT Liaison, Health & Safety Representative & Power Engineer(4th)
 •	Spearheading switching out of the entire air separation unit computer operating system from Windows 7 using IFix HMI to Windows 10 using NGHMI.
