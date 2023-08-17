@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Mugisha112"}
   - {title: LinkedIn, icon: linkedin, url: "http://www.linkedin.com/in/edwardlmugisha"}
+  - {title: Website, icon: website, url: "mugisha112.github.io"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
