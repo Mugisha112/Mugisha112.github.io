@@ -37,4 +37,6 @@ investor or an advisor, and for the investors, it would be good to include which
 We're interested in how well you have covered the most-awarded actors. Of all the actors with three types of awards, for what % of them do we carry a film? And how about for actors with two types of awards? Same
 questions. Finally, how about actors with just one award?
 
-SOLUTIONS ON SQL TAB
+SOLUTIONS 
+
+[MavenSQL.txt](https://github.com/Mugisha112/Mugisha112.github.io/files/12372126/MavenSQL.txt)
