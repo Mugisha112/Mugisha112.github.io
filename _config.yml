@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "mavenpost.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Website, icon: website, url: "mugisha112.github.io"}
+  - {title: Website, url: "mugisha112.github.io"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
