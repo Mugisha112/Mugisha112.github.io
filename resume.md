@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Edward's Resume"
-----
+---
 
 EDWARD MUGISHA
 https://mugisha112.github.io
