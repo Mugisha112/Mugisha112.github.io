@@ -10,6 +10,4 @@ Hi, my name is Edward and as a freelance data analyst, I translate data into val
 
 "Without Data, you're just another person with an opinion" - W. Edwards Deming
 
-
-
-![Data-Analytics-vs-Data-Science-vs-Machine-Learning](https://github.com/Mugisha112/Mugisha112.github.io/assets/138741342/8ff2aabf-5142-42d9-b49f-6ebebff91fa6)
+![Godata](https://github.com/Mugisha112/Mugisha112.github.io/assets/138741342/20b89e66-5731-459b-9c03-ac818b8ec37c)
