@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
@@ -18,13 +18,13 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", icon: home, url: "mugisha112.github.io"}
   - {file: "Edward.pdf", title: "Resume", icon: pdf}
+  - {title: LinkedIn, icon: linkedin, url: "http://www.linkedin.com/in/edwardlmugisha"}
+  - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Mugisha112"}
   - {title: "Tableau", icon: report, url: "https://public.tableau.com/app/profile/edwardlmugisha"}
   - {file: "mavenpost.md", title: "Projects", icon: project}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/Mugisha112"}
-  - {title: LinkedIn, icon: linkedin, url: "http://www.linkedin.com/in/edwardlmugisha"}
   - {title: Website, icon: website, url: "mugisha112.github.io"}
 
 comments:
