@@ -19,7 +19,7 @@ SKILLS:
 
 EXPERIENCE:
 
-CYNERGY ANALYTICS LC-----------------------------------------------------------------------April 2022 - Present   
+CYNERGY ANALYTICS LLC-----------------------------------------------------------------------April 2022 - Present   
 
 Business Data Analyst
 
