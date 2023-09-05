@@ -18,14 +18,14 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", icon: home, url: "mugisha112.github.io"}
   - {title: LinkedIn, icon: linkedin, url: "http://www.linkedin.com/in/edwardlmugisha"}
-  - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Mugisha112"}
+  - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
   - {title: "Tableau", url: "https://public.tableau.com/app/profile/edwardlmugisha"}
   - {file: "mavenpost.md", title: "Projects"}
   - {file: "resume.md", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Website, url: "mugisha112.github.io"}
+  - {title: Contact me: 780 264 1045}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
