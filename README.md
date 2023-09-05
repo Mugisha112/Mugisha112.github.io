@@ -1,7 +1,6 @@
 ---
-title: "Data about me"
-permalink: "https://mugisha112.github.io/"
-layout: page
+Title: "Data about me"
+Portfolio: "https://mugisha112.github.io/"
 ---
 
 Hello, my name is Edward and as a freelance data analyst, I translate data into valuable and comprehensible insights. My goal is to improve results, help others and/or organizations make the right data driven decisions and save costs. Even as a child/youth, I have always enjoyed to solve puzzles and so that’s how I look at big data sets, to me it is one big puzzle I want to solve. Finding patterns nobody else sees is the challenge to me. I have a passion for learning with a positive growth mindset and this is a valuable asset in data analytics as data is continously being collected/evolving and I stongly believe that the solutions to complex business questions depend on the ability to analyze data and letting the data speak to you. As a member on a team, here is a summary of some of the qualities I would add to the team;
