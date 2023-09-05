@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Data about me"
+permalink: "https://mugisha112.github.io/"
 layout: page
 ---
 
