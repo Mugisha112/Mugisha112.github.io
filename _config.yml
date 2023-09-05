@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "resume.md", title: "Resume"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Website, icon: web, url: "https://mugisha112.github.io"}
+  - {title: Back to the Top,  url: "https://mugisha112.github.io"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
