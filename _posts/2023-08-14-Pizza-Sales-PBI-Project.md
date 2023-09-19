@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 [Pizza shop problem statement.docx](https://github.com/Mugisha112/Mugisha112.github.io/files/12656316/Pizza.shop.problem.statement.docx)
 
@@ -25,6 +25,6 @@ Extracted Day name and hour name from order date and order time for daily and ho
 
 Top and Bottom 5 selling pizzas by Revenue, Quantity and Orders using Top N filter
 
-## Built Report
+## REPORT
 
 [Pizza sales report.pdf](https://github.com/Mugisha112/Mugisha112.github.io/files/12656326/Pizza.sales.report.pdf)
