@@ -10,11 +10,5 @@ As a freelance data analyst, I translate data into valuable and comprehensible i
 
 Data Qoutes by W. Edwards Deming
 
-"I am forever learning and cahnging" 
-
-"If you can't describe what your doing as a process, you don't know what your doing"
-
-"Without Data, you're just another person with an opinion" 
-
-"In God we Trust, all others bring data"
+"I am forever learning and cahnging." "If you can't describe what your doing as a process, you don't know what your doing." "Without Data, you're just another person with an opinion." "In God we Trust, all others bring data."
 
