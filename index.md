@@ -1,5 +1,4 @@
 ---
-title: "Edward Mugisha - Data about me and what I can bring to a team"
 layout: page
 ---
  
