@@ -6,7 +6,7 @@ As a freelance data analyst, I translate data into valuable and comprehensible i
 - Strong work ethic, detail oriented, problem solving, critical and analytical thinking with a mind for math and numbers can be used to help promote the team mission and exceed team goals as a key team player.
 - Determined individual with drive to expand my career with a growth mindset and a passion for learning new skills and willingness to constantly reinvent and learn new technologies and approaches. 
 
-Data Qoutes by W. Edwards Deming
+Qoutes by W. Edwards Deming
 
 "I am forever learning and cahnging." "If you can't describe what your doing as a process, you don't know what your doing." "Without Data, you're just another person with an opinion." "In God we Trust, all others bring data."
 
