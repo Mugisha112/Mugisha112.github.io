@@ -10,4 +10,6 @@ As a freelance data analyst, I translate data into valuable and comprehensible i
 
 "Without Data, you're just another person with an opinion" - W. Edwards Deming
 
-![Godata](https://github.com/Mugisha112/Mugisha112.github.io/assets/138741342/20b89e66-5731-459b-9c03-ac818b8ec37c)
+"In God We Trust, all others bring data" - W. Edwards Deming
+
+[Pizza sales report.pdf](https://github.com/Mugisha112/Mugisha112.github.io/files/12656574/Pizza.sales.report.pdf)
