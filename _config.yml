@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:eddwardmugisha@gmail.com"}
   - {title: "Tableau", url: "https://public.tableau.com/app/profile/edwardlmugisha"}
   - {file: "mavenpost.md", title: "Projects"}
-  - {file: "resume.md", title: "Resume"}
+  - {file: "resume.md", title: "CV", icon: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Back to the Top,  url: "https://mugisha112.github.io"}
