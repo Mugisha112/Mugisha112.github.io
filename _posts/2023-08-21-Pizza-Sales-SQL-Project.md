@@ -1,4 +1,4 @@
-[Pizza Sales SQL Queries.txt](https://github.com/Mugisha112/Mugisha112.github.io/files/12656235/Pizza.Sales.SQL.Queries.txt)---
+---
 title:  "Pizza Sales Report SQL Project"
 layout: post
 ---
@@ -36,7 +36,5 @@ Total Pizzas Sold by Pizza Category: Create a funnel chart that presents the tot
 Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders: Create a bar chart highlighting the top 5 best selling pizzas based on revenue, total quantity and total orders. This chart will help us identify the most popular pizza options.
 
 Bottom 5 Sellers by Revenue, Total Quantity and Total Orders: Create a bar chart showcasing the bottom 5 worst selling pizzas based on revenue, total quantity and total orders. This chart will enables us to identify underperforming or less popular pizza options.
-
-SOLUTIONS
 
 
