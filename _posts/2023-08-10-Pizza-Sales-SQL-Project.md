@@ -3,9 +3,9 @@ title:  "Pizza Sales Report SQL Project"
 layout: post
 ---
 
-PROBLEM STATEMENT
+PROBLEM STATEMENT:
 
-KPI’S REQUIREMENTS
+KPI’S REQUIREMENTS:
 
 We need to analyze the key  indicators of our pizza sales data to gain insight into our business performance. Specifically, we want to calculate the following metrics;
 
@@ -13,13 +13,13 @@ Total Revenue: The sum of the total price of all pizza orders.
 
 Average Order Value: The average amount spent per order, calculated by dividing total revenue by total number of orders.
 
-Total Pizza sold: Sum of the quantities of all pizza sold
+Total Pizza sold: Sum of the quantities of all pizza sold.
 
-Total Orders: The total number of orders placed
+Total Orders: The total number of orders placed.
 
 Average Pizzas per Order: The average number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
-CHART REQUIREMENTS
+CHART REQUIREMENTS:
 
 We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts.
 
