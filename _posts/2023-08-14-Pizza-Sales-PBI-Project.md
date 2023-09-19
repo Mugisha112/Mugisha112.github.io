@@ -21,6 +21,10 @@ Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
 
 Avg Pizzas Per Order = DIVIDE([Total Pizzas Sold], [Total Orders])
 
+Extracted Day name and hour name from order date and order time for daily and hourly trends.
+
+Top and Bottom 5 selling pizzas by Revenue, Quantity and Orders using Top N filter
+
 ## Built Report
 
 [Pizza sales report.pdf](https://github.com/Mugisha112/Mugisha112.github.io/files/12656326/Pizza.sales.report.pdf)
