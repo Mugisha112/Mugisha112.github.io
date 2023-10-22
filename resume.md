@@ -2,47 +2,111 @@
 layout: page
 title: "Edward's Resume"
 ---
+Edward Mugisha	eddwardmugisha@gmail.com • (780) 264-1045
 
-EDWARD MUGISHA
+• Tableau Public - https://public.tableau.com/app/profile/edwardlmugisha/vizzes
 
-https://mugisha112.github.io
+• Portfolio - https://mugisha112.github.io/
 
-Cell:  780.264.1045	eddwardmugisha@gmail.com	Cell:  780.264.1045
+• LinkedIn - https://www.linkedin.com/in/edwardlmugisha/
 
-SUMMARY:
+Alberta, Canada
 
-Passionate result driven Data Analyst who can; extract, transform, load (ETL) data from multiple sources using Alteryx, perform statistical analysis of data and query databases using MySQL, and perform data visualization reporting using Tableau and Power BI. Key team player seeking a challenging and rewarding career in a diverse environment where my strong work ethic, detail oriented, problem solving, critical and analytical thinking mind for math and numbers can be used to help promote the team mission and exceed team goals. Determined individual with drive to expand my career with a growth mindset and a passion for learning new skills and willingness to constantly reinvent and learn new technologies and approaches. 
+Qualifications Summary
 
-SKILLS:
+Highly motivated professional with a strong foundation in data analysis, database management, and statistical techniques; poised to excel in entry-level Data Analyst roles. Determined individual with a drive to expand career with a positive growth mindset and a passion for learning new skills and willingness to constantly reinvent and learn new technologies and approaches.
 
-•	Data visualization and reporting using BI Tools (Tableau, Power BI), Data warehousing concepts including Extract, Transform and Load (ETL) using Alteryx, Database Analysis using MySQL, Microsoft SQL, PostgreSQL, SQLite, Excel to clean and transform data, Strong Analytical and Quantitative Skills, Communication and collaboration, Time management and prioritization.
+Data Analysis & Interpretation:
 
-EXPERIENCE:
+•	Proficient in data profiling and collection techniques to extract valuable insights from raw data.
 
-CYNERGY ANALYTICS LLC-----------------------------------------------------------------------April 2022 - Present   
+•	Skilled in data visualisation tools, such as Tableau and Microsoft Power BI to create impactful reports and dashboards for informed decision-making.
 
-Business Data Analyst
+Database Management & SQL:
 
-•	Assisted in business data analytics using a problem-solving approach to answer a business question utilizing data preparation techniques through data profiling and gathering, data visualization and end user support. 
+•	Demonstrated ability to conduct intricate database queries, optimise databases, and ensure data accuracy and integrity.
 
-•	Created and developed reports and dashboards summarizing business data for management review to report on key business performance indicators with the help of BI tools like Tableau and Microsoft Power BI.
+•	Proficient in managing sensitive data within relational databases and utilising SQL for data manipulation and retrieval.	Communication & Collaboration:
 
-•	Used the Extract, Transform, and Load (ETL) process to develop workflows in Alteryx from multiple sources (files and/or databases) allowing the business to accelerate transformation and boost growth.
+•	Possess superb interpersonal and communication skills for effective teamwork and collaboration with cross-functional teams.
 
-•	Execution of complex database queries, database optimization and working with relational databases against sensitive data to support business needs using MySQL.  
+•	Able to translate complex technical findings into understandable insights for non-technical stakeholders, fostering data-driven decision-making across organisation.
 
-LINDE CANADA INCORPORATED-----------------------------------------------------------------January 2017 – Present
+Statistical Analysis & Problem-solving:
 
-Site IT Liaison, Health & Safety Representative & Power Engineer(4th)
+•	Strong analytical skills with capability of identifying trends, patterns, and anomalies in data sets.
 
-•	Spearheading switching out of the entire air separation unit computer operating system from Windows 7 using IFix HMI to Windows 10 using NGHMI.
+•	Adept at using statistical techniques to solve complex business problems and data-driven solutions.
 
-•	Liaison between fellow employees/contractors and management regarding safety and safe work practices.
+Technical Proficiencies
 
-•	Monitors, records, analyzes, investigates, and troubleshoots plant operations, product purity and operation efficiency
+Alteryx | Big Data | Cloud Storage | ETL | Power BI | Power Engineer | Power Query | Predictive Analytics | SAS | SQL | SSAS | SSIS | SSRS | Tableau
 
-EDUCATION:
+Career Experience
 
-Diploma, Chemical Production and Power Engineering Technology (CPET),-------------------2009 Lambton College, Sarnia, ON
+Cnergy Analytics LLC, Tennessee | https://www.cynergylearning.com 	2022 – 2023
 
-•	Received Nova Chemicals Award and graduated with honors.
+Data Analyst | Substitute Tutor
+
+Enhanced small business operations by devising data-driven solutions, employing data profiling and collection techniques, steering data visualisation, and providing comprehensive end-user support. Created and refined reports and dashboards for summarizing critical business insights. Leveraged BI tools, such as Tableau and Microsoft Power BI to monitor essential performance indicators. Volunteer as substitute tutor to help students grasp concepts behind different data analytics tools.
+
+Key Accomplishments:
+
+•	Streamlined business transformation and expansion by developing Extract, Transform, and Load (ETL) workflows in Alteryx; incorporating data from multiple sources, including files and databases, catalysing operational growth.
+
+•	Conducted intricate database queries and optimised databases, while managing sensitive data within relational databases to cater to business requirements and ensure data integrity using SQL.
+
+•	Contributed to educational development of 15 to 20 students by imparting SQL, Power BI, and Tableau knowledge, resulting in cost savings for institution as a substitute tutor.
+
+Linde Canada Inc., Fort Saskatchewan | https://www.lindecanada.ca	2017 – Present
+
+Health & Safety Representative | IT Liaison | Power Engineer
+
+Facilitate effective communication and collaboration between fellow employees, contractors, and management with a primary focus on safety protocols and best practices. Implement comprehensive monitoring, recording, analysis, and troubleshooting procedures to optimise plant operations and ensure product purity and operational efficiency. Serve as a safety representative at plant and play a pivotal role in cost-saving measures for company by proactively addressing safety concerns and averting need to hire additional safety representatives during incidents.
+
+Key Accomplishments:
+
+•	Demonstrated commitment during pandemic by voluntarily acquiring proficiency in a different plant operation, while preventing need for hiring an additional operator and contributing to significant cost savings for the company.
+
+•		Orchestrated a seamless transition of entire air separation unit computer operating system; migrating from Windows 7 with IFix HMI to Windows 10 with NGHMI to enhance system efficiency and performance.
+
+•	Improved response times and minimised technical glitches by upgrading site's computer system in collaboration with IT department.
+
+Syncrude Canada LTD, Fort McMurray | https://www.syncrude.ca 	2013 – 2016
+
+Power Engineer | Process Operator
+
+Streamlined power generation processes to maximise efficiency and reliability as well as enhanced overall operational performance. Reduced downtime and streamlined operations by conducting equipment monitoring and maintenance. Implemented rigorous safety protocols to mitigate potential risks and foster a secure working environment for all.
+
+Key Accomplishments:
+
+•	Detected a critical sour gas leak, while preventing potential environmental and financial liabilities.
+
+•	Volunteer to instruct co-op students to develop a structured training programme and promote knowledge sharing and skill development within organisation.
+
+•	Demonstrated exceptional dedication by volunteering as a permit writer for offsite project during challenging hiring periods; showcasing a commitment to company's success beyond personal career progression.
+
+Imperial Oil LTD, Sarnia | https://www.imperialoil.ca  	2009 – 2013
+
+Power Engineer | Process Operator
+
+Revamped power generation procedures to achieve peak performance and efficiency levels. Attained notable reduction in operational disruptions and downtime through equipment maintenance. Implemented safety protocols, elevated workplace security, and fostered a safer environment for all team members.
+
+Key Accomplishments:
+
+•	Potentially prevented contamination of on-spec jet fuel tank and averted costly cleanup expenses by discovering an open valve offsite just before restoring a critical process line.
+
+•	Identified an isolated offsite line block safety valve to mitigate risk of overpressure and potential for incidents/personnel injuries, while demonstrating commitment to safety and operational excellence.
+
+Additional Experience
+
+Power Engineer Co-Op Student, Imperial Oil LTD, Sarnia | https://www.imperialoil.ca 
+
+Professional Development
+
+Data Analyst Certificate, Cnergy Learning, Online (2022)
+
+Chemical & Power Engineering Technology Diploma (Nova Chemical Scholarship & Honors), Lambton College, Sarnia, ON. Canada
+
+4th Class Power Engineer, Alberta Boilers Safety Association, Edmonton
+
