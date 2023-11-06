@@ -14,7 +14,9 @@ Alberta, Canada
 
 Qualifications Summary
 
-Highly motivated professional with a strong foundation in data analysis, database management, and statistical techniques; poised to excel in entry-level Data Analyst roles. Determined individual with a drive to expand career with a positive growth mindset and a passion for learning new skills and willingness to constantly reinvent and learn new technologies and approaches.
+Highly motivated professional with a strong foundation in data analysis, database management, and statistical techniques; poised to excel in entry-level Data Analyst roles. Determined individual with a drive to expand career with a positive growth mindset and a passion for learning new skills and willingness to constantly reinvent and learn new technologies and approaches. Dedicated and solutions-oriented professional demonstrating strong foundation and skills in data analytics, specializing in ETL, data exploration, database management, and data visualization and reporting. Proven ability to analyze, explore, model, and visualize data using BI tools, execute complex database queries, and optimize databases to develop innovative and results-driven solutions that enable business leaders to make informed decisions.
+Fosters a collaborative work culture, with the ability to effectively collaborate and communicate with cross-functional teams, clients, and stakeholders. Committed to continuous learning with a positive growth mindset, seeking to explore a new opportunity to expand within a new and challenging Data Analyst role, realigning skillset with the constantly evolving technological world.
+
 
 Data Analysis & Interpretation:
 
@@ -48,15 +50,50 @@ Cnergy Analytics LLC, Tennessee | https://www.cynergylearning.com 	2022 – 2023
 
 Data Analyst | Substitute Tutor
 
-Enhanced small business operations by devising data-driven solutions, employing data profiling and collection techniques, steering data visualisation, and providing comprehensive end-user support. Created and refined reports and dashboards for summarizing critical business insights. Leveraged BI tools, such as Tableau and Microsoft Power BI to monitor essential performance indicators. Volunteer as substitute tutor to help students grasp concepts behind different data analytics tools.
+Data Analyst Certification & Substitute Tutor | Cnergy Analytics LLC	2023
 
-Key Accomplishments:
+Relevant Coursework: Data Analytics | Tableau Data Visualization | Power BI Data Visualization | Alteryx Data Blending ETL | SQL for Data Analytics | Python for Data Analytics
 
-•	Streamlined business transformation and expansion by developing Extract, Transform, and Load (ETL) workflows in Alteryx; incorporating data from multiple sources, including files and databases, catalysing operational growth.
+Key Skills Acquired:
 
-•	Conducted intricate database queries and optimised databases, while managing sensitive data within relational databases to cater to business requirements and ensure data integrity using SQL.
+	Data Analysis & Visualization: Explored proven methods and practical best practices for exploring, visualizing, and analyzing data using Power BI and Tableau. Accessed and processed data from single or multiple data sources, including relational and nonrelational sources. Planned, managed, and deployed visual reports and dashboards for sharing and content distribution.
 
-•	Contributed to educational development of 15 to 20 students by imparting SQL, Power BI, and Tableau knowledge, resulting in cost savings for institution as a substitute tutor.
+	Teaching & Mentoring: Utilized effective teaching methodologies to help students grasp complex concepts in SQL, Power BI, and Tableau, showcasing strong communication and instructional skills. Adapted teaching techniques to cater to diverse learning styles, ensuring comprehensive understanding among students. Shared expertise in SQL, Power BI, and Tableau with a diverse group of 15 to 20 students as a part-time tutor, fostering their educational development.
+
+	Statistical Analysis & Problem-Solving: Leveraged technical and analytical skills to help provide businesses with informed solutions through data profiling and gathering, data visualization, and end-user support. Strong analytical skills with capability of identifying trends, patterns, and anomalies in data sets.
+
+	Communication & Collaboration: Possesses superb interpersonal and communication skills for effective teamwork and collaboration with cross-functional teams. Able to translate complex technical findings into understandable insights for non-technical users fostering data-driven decision-making. Utilized strong interpersonal skills to ensure effective coordination and collaboration between students to ensure projects are done and submitted in a timely manner.
+
+Key Projects:
+
+Power BI Maven Market Project
+
+Analyzed the performance of Maven market products to create a summarized report showcasing topline brands in terms of total transactions/units sold, profits, and return rate. Defined and established KPIs, collected and processed data, and visualized results through tables, matrices, charts, and treemaps. 
+
+	Extracted data from various sources, connected and shaped data using load or transform as required in the query editor where I cleaned data, confirmed data types, created desired columns, identified dimension and fact tables, enabled load, and included in refresh.
+
+	Created data model schemas to demonstrate cardinality relationships using primary and foreign keys in dimension and fact tables in the model view. In data view, changed data structure and properties and formatted data tables as required.
+
+	Utilized DAX to create desired calculated columns and fields for reporting. Incorporated aggregate and iterator functions to find the requested KPIs. Generated a visual report detailing the topline performance brands as requested. 
+
+Maven Movie SQL Project
+
+Analyzed data from the Maven Movies database and wrote SQL queries to generate responses to potential acquirers’ questions associated with each movie rental store while staying with the objective.
+
+	Made use of SQL data definition language (DDL) to create and modify the structure of database objects, explored the table structure and information, analyzed cardinality relationships, and performed single and multi-table analysis using joins, and built-in SQL functions.
+
+	Utilized SQL data manipulation language (DML) to edit, add and remove data stored in a database. Tables created using DML were saved as views, indexes, and store procedures for quick retrieval. 
+
+Tableau Visualization Project
+
+Performed data analysis on superstore dataset using Tableau and generated visualizations to gain data-driven answers to business intelligence questions posed to me.
+
+	Extracted information from different sources and explored the data table structure. Explored the data model structure (logical and physical layers), managed data connection, utilized tableau order of operation added data source filters, and changed metadata and table data types as required for actionable insight.
+
+	Utilized data aggregation techniques like hierarchy, groups, sets, and parameters to create visualizations for reporting. Utilized tableau order of operation to apply different filters and level of detail expressions to visualizations to gain valuable insight and give user interactive ability. 
+
+	Developed a dashboard and stories for reporting and shared to be accessed by permission granted individuals to interact with the visuals and reports.
+
 
 Linde Canada Inc., Fort Saskatchewan | https://www.lindecanada.ca	2017 – Present
 
